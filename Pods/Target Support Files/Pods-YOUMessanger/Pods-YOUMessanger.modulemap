@@ -1,0 +1,6 @@
+framework module Pods_YOUMessanger {
+  umbrella header "Pods-YOUMessanger-umbrella.h"
+
+  export *
+  module * { export * }
+}
